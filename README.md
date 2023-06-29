@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olaar! 👋
+Sou Hanaty, Engenheira de Software pela Universidade Católica de Pernambuco.
 
-<!--
-**hannatty/hannatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias
+<div style="display: inline_block">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+</div>
 
-Here are some ideas to get you started:
+### Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Curiosidades
+👩🏽‍⚕️Já fui Enfermeira, atuei por 8 anos na profissão
+🥇 Venci uma maratona de ideação de aplicativos promovida pelo Porto Digital
+
+
+
+
