@@ -1,5 +1,4 @@
-## Olaar! 👋
-Sou Hanaty, Engenheira de Software pela Universidade Católica de Pernambuco.
+## Olaar! Sou Hanaty, Engenheira de Software pela Universidade Católica de Pernambuco.
 
 ### Tecnologias
 <div style="display: inline_block">
@@ -19,7 +18,7 @@ Sou Hanaty, Engenheira de Software pela Universidade Católica de Pernambuco.
 </div>
 
 ### Curiosidades
-👩🏽‍⚕️Já fui Enfermeira, atuei por 8 anos na profissão
+👩🏽‍⚕️Já fui Enfermeira, atuei por 8 anos na profissão </br>
 🥇 Venci uma maratona de ideação de aplicativos promovida pelo Porto Digital
 
 
