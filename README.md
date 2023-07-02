@@ -14,7 +14,7 @@ Sou engenheira de software pela Universidade Católica de Pernambuco.
   <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="JsIcon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 </div>
-</br></br>
+</br>
 
 ### Sobre mim
 👩🏽‍⚕️Já fui Enfermeira, atuei por 8 anos na profissão </br>
