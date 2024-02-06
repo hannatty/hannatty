@@ -17,9 +17,9 @@ Sou engenheira de software pela Universidade Católica de Pernambuco.
 </br>
 
 ### Sobre mim
-👩🏽‍⚕️Já fui Enfermeira, atuei por 8 anos na profissão </br>
 🥇 Venci uma maratona de ideação de aplicativos promovida pelo Porto Digital </br>
-📚 Adoro cursos online e bootcamps. Tô sempre arranjando um novo para fazer. <br/> <br/>
+📚 Adoro cursos online e bootcamps. Tô sempre arranjando um novo para fazer. <br/> 
+👩🏽‍⚕️Já fui Enfermeira, atuei por 8 anos na profissão </br><br/>
 
 ##
 <div>
